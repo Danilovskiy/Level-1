@@ -1,6 +1,6 @@
 package DIT1;
 
-public class Hell3 {
+public class ByteLong {
     //Создать программу, конвертирующую более узкий тип к более широкому.
     public static void main (String [] args){
 
